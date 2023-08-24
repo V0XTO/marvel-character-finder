@@ -1,4 +1,4 @@
-# Marvel Character Search App
+# Marvel Character Search App Ⓜ 🕷
 
 This is a simple web application that allows users to search and view information about Marvel characters using the Marvel API.
 
