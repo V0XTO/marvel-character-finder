@@ -33,10 +33,10 @@ This is a simple web application that allows users to search and view informatio
 ## Screenshots
 
 ![Screenshot 1](./img/132shots_so.png)
-_Description: The main page displaying a list of Marvel characters._
+
 
 ![Screenshot 2](./img/653shots_so.png)
-_Description: Searching for characters using the search bar._
+
 
 ## Contributing
 
